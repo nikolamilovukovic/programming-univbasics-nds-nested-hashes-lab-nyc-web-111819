@@ -20,7 +20,13 @@ def assembled_aoh
 end
 
 def literal_aoh
-  
+  new_array = %w[
+    DON_G
+    JOELLE_VD
+    PAT_M
+    KATE_G
+    BRUCE_G
+    ]
   
   
   
