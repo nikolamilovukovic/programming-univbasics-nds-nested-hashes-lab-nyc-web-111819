@@ -37,7 +37,7 @@ def literal_aoh
 end
 
 def aoh_lookup(aoh, row, key)
-  lookup_array = []
+  new_array[2][:name] = "Pat Monteseian"
   
   
   
